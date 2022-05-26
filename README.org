@@ -1,0 +1,2 @@
+* Test Program for =tkinter=
+This program follows a basic tutorial provided by matplotlib but is modified to switch between multiple plots
